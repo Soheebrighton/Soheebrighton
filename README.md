@@ -1,5 +1,5 @@
 
-<span style="color:#00FF08;font-weight:700;font-size:20px">
+<span style="color:neongreen;font-weight:700;font-size:20px">
 Hi, I'm Sohee Jung, a front-end developer. 🧚‍♂️
 </span>
 
