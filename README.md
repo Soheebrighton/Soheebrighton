@@ -1,6 +1,8 @@
 
-
+<span style="color:#00FF08;font-weight:700;font-size:20px">
 Hi, I'm Sohee Jung, a front-end developer. 🧚‍♂️
+</span>
+
 
 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='html5' src='https://img.shields.io/badge/html5-100000?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=F7F7F7&color=F7F7F7'/></a>
