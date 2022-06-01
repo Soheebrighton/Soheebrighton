@@ -4,5 +4,9 @@
 const profile = {
 name: 'Sohee Jung',
 location: 'Seoul',
-code: [], }
+workplace: {
+         company: 'G-labs',
+         position: 'Front-end Developer',
+      },
+ }
 ```
