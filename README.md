@@ -1,7 +1,8 @@
 # Hi, I'm Sohee Jung! 🌱
 
-```` const profile = {
+```` 
 
+const profile = {
 name: 'Sohee Jung',
 location: 'Seoul',
 code: [], }
