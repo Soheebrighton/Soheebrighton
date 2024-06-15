@@ -1,5 +1,5 @@
 
-<span style="color:#00FF08">Hi, I'm Sohee Jung, a front-end developer.</span> 🧚‍
+<span style="color:#00FF08">Hi, I'm Sohee, a front-end developer.</span> 🧚‍
 
 
 
